@@ -1,0 +1,5 @@
+commit 415e55d6bd6ae792ccb16c52e415dc0dc675e807
+Author: Matt Small <smalls@users.noreply.github.com>
+Date:   Wed May 8 14:44:14 2019 -0700
+
+    Document the `ar` attribute (#539)
